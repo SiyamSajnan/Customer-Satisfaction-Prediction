@@ -1,7 +1,7 @@
 # Customer Review Prediction with Machine Learning
 
 ## Project Description
-This project builds and compares multiple machine learning models for classifying customer reviews as either "good" or "poor." Using models such as Logistic Regression, Random Forest, KNN, XGBoost, Naïve Bayes, and ensemble methods, it aims to predict customer satisfaction levels based on features like fulfillment time, payment type, and price, providing valuable insights to stakeholders for informed decision-making.
+Differentiating machine learning models such as Logistic Regression, Random Forest, KNN, XGBoost, Naïve Bayes, and ensemble methods for classifying customer reviews as either "positive" or "negative". The objective is to predict customer satisfaction levels based on features like fulfillment time, payment type, and price, providing valuable insights to stakeholders for informed decision-making.
 
 ## Models Employed
 - **Logistic Regression**
