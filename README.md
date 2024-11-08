@@ -1,4 +1,4 @@
-# Customer Review Prediction with Machine Learning
+# Customer Satisfaction Prediction
 
 ## Project Description
 Differentiating machine learning models such as Logistic Regression, Random Forest, KNN, XGBoost, Naïve Bayes, and ensemble methods for classifying customer reviews as either "positive" or "negative". The objective is to predict customer satisfaction levels based on features like fulfillment time, payment type, and price, providing valuable insights to stakeholders for informed decision-making.
